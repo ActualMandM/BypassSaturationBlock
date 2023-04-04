@@ -14,3 +14,4 @@
 // Dependencies
 #include <Helpers.h>
 #include <Signature.h>
+#include <dxgi.h>
